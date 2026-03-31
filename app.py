@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 
 
-st.set_page_config(page_title="User Growth Simulator", layout="wide")
+st.set_page_config(page_title="Medical APP Growth Simulator", layout="wide")
 
 
 # -----------------------------
